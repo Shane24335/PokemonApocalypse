@@ -746,34 +746,7 @@
             "x": 60,
             "y": 30,
             "actors": [],
-            "triggers": [
-                {
-                    "name": "",
-                    "trigger": "walk",
-                    "script": [
-                        {
-                            "id": "a18422c6-d3b0-4b07-9141-4e243e2bc4db",
-                            "command": "EVENT_SWITCH_SCENE",
-                            "args": {
-                                "sceneId": "0e9d9725-7505-42a2-87b9-f17d406a6d9a",
-                                "x": 0,
-                                "y": 0,
-                                "direction": "",
-                                "fadeSpeed": "2"
-                            }
-                        },
-                        {
-                            "id": "538a403f-9d45-4abe-b25b-363aba02decf",
-                            "command": "EVENT_END"
-                        }
-                    ],
-                    "id": "2577fe04-9a35-4e78-a653-6f1c30a1f183",
-                    "x": 10,
-                    "y": 12,
-                    "width": 1,
-                    "height": 1
-                }
-            ]
+            "triggers": []
         },
         {
             "name": "Town(1)",
@@ -1150,54 +1123,7 @@
             "id": "d358cce6-1aa0-4539-8ee3-3b04a5eedd08",
             "x": 278.40732279309043,
             "y": 30,
-            "actors": [
-                {
-                    "name": "",
-                    "frame": 0,
-                    "animate": false,
-                    "spriteSheetId": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-                    "spriteType": "static",
-                    "direction": "down",
-                    "moveSpeed": "1",
-                    "animSpeed": "3",
-                    "script": [
-                        {
-                            "id": "c59fb1d6-9328-4288-91e8-653e53df64c1",
-                            "command": "EVENT_IF_COLOR_SUPPORTED",
-                            "args": {
-                                "__collapseElse": false
-                            },
-                            "children": {
-                                "true": [
-                                    {
-                                        "id": "e26845b9-16b9-452b-a338-ec3a7d01005b",
-                                        "command": "EVENT_END"
-                                    }
-                                ],
-                                "false": [
-                                    {
-                                        "id": "35667a72-0196-4074-9cea-a53ea71ec2e7",
-                                        "command": "EVENT_END"
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "id": "9eab59f2-bcbd-4550-a39e-1d65520c8333",
-                            "command": "EVENT_END"
-                        }
-                    ],
-                    "startScript": [],
-                    "updateScript": [],
-                    "hit1Script": [],
-                    "hit2Script": [],
-                    "hit3Script": [],
-                    "id": "3041e562-2c6b-45b0-a017-bf11887ad8e5",
-                    "x": 8,
-                    "y": 10,
-                    "collisionGroup": "1"
-                }
-            ],
+            "actors": [],
             "triggers": []
         },
         {
@@ -1640,7 +1566,7 @@
             "imageHeight": 144,
             "filename": "placeholder.png",
             "inode": "281474977309413",
-            "_v": 1673356227085
+            "_v": 1673356105374
         }
     ],
     "spriteSheets": [
@@ -1651,7 +1577,7 @@
             "type": "actor",
             "filename": "actor.png",
             "inode": "281474977309417",
-            "_v": 1673356227086
+            "_v": 1673356105374
         },
         {
             "id": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
@@ -1660,7 +1586,7 @@
             "type": "actor_animated",
             "filename": "actor_animated.png",
             "inode": "281474977309418",
-            "_v": 1673356227086
+            "_v": 1673356105374
         },
         {
             "id": "daf95270-e30d-423b-9ee7-990ae29f57f6",
@@ -1669,7 +1595,7 @@
             "type": "static",
             "filename": "static.png",
             "inode": "281474977309419",
-            "_v": 1673356227086
+            "_v": 1673356105374
         }
     ],
     "palettes": [
@@ -1843,7 +1769,7 @@
             "filename": "template.mod",
             "settings": {},
             "inode": "281474977309415",
-            "_v": 1673356227059
+            "_v": 1673356105338
         }
     ],
     "variables": [],
