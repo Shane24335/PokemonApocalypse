@@ -50,3 +50,15 @@ ho-oh(250) - espeon
 lugia(249) - chinchou
 
 darkrai(347) - murkrow
+
+kyogre(340) - umbreon
+
+groudon(341) - graveler
+
+rayquaza(342) - dugtrio
+
+unown(201) - tangrowth
+
+kyurem(296) - lucario
+
+palkia(344) - reshiram
