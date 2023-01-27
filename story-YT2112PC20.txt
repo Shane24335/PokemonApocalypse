@@ -2,9 +2,9 @@ Sapphire starters - torchic, mudkip, and treecko
 
 Fusion generator link - https://aegide.github.io/
 
-treecko(276) - togekiss, dodrio, mr.mime, 
+treecko(276) - togekiss, dodrio 
 
-mudkip(282) - honegde, machop(we can use both evolution lines) 
+mudkip(282) - machop(we can use both evolution lines) 
 
 torchic(279) - roselia(tochic and combusken, blaziken would be roserade), chinchou
 
@@ -49,7 +49,7 @@ ho-oh(250) - espeon
 
 lugia(249) - chinchou
 
-darkrai(347) - murkrow
+darkrai(347) - honchkrow
 
 kyogre(340) - umbreon
 
